@@ -1,0 +1,10 @@
+com/bank/loan/web/LoanController.class
+com/bank/loan/repository/LoanApplicationRepository.class
+com/bank/loan/api/CreateLoanRequest.class
+com/bank/loan/service/LoanIneligibleException.class
+com/bank/loan/service/LoanNotFoundException.class
+com/bank/loan/domain/LoanApplicationRecord.class
+com/bank/loan/web/ApiExceptionHandler.class
+com/bank/loan/service/LoanApplicationService.class
+com/bank/loan/LoanApplication.class
+com/bank/loan/domain/LoanStatus.class
